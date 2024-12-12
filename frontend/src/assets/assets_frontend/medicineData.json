@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "slug": "paracetamol",
+      "image": "https://example.com/images/paracetamol.jpg",
+      "images": ["https://example.com/images/paracetamol1.jpg", "https://example.com/images/paracetamol2.jpg"],
+      "brand": "BrandA",
+      "category": "Pain Relief",
+      "description": "Great for headaches and mild pain relief.",
+      "price": 10,
+      "countInStock": 100,
+      "rating": 4.5,
+      "numReviews": 50,
+      "reviews": [
+        {
+          "name": "John Doe",
+          "comment": "Works well for headaches.",
+          "rating": 5
+        },
+        {
+          "name": "Jane Smith",
+          "comment": "Good for mild pain.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aspirin",
+      "slug": "aspirin",
+      "image": "https://example.com/images/aspirin.jpg",
+      "images": ["https://example.com/images/aspirin1.jpg", "https://example.com/images/aspirin2.jpg"],
+      "brand": "BrandB",
+      "category": "Pain Relief",
+      "description": "Good for pain relief and reducing fever.",
+      "price": 8,
+      "countInStock": 150,
+      "rating": 4.2,
+      "numReviews": 30,
+      "reviews": [
+        {
+          "name": "Alice Johnson",
+          "comment": "Helps with fever reduction.",
+          "rating": 4
+        },
+        {
+          "name": "Bob Brown",
+          "comment": "Effective pain relief.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vitamin C",
+      "slug": "vitamin-c",
+      "image": "https://example.com/images/vitamin-c.jpg",
+      "images": ["https://example.com/images/vitamin-c1.jpg", "https://example.com/images/vitamin-c2.jpg"],
+      "brand": "BrandC",
+      "category": "Vitamins",
+      "description": "Boosts immunity and overall health.",
+      "price": 12,
+      "countInStock": 200,
+      "rating": 4.8,
+      "numReviews": 70,
+      "reviews": [
+        {
+          "name": "Charlie Davis",
+          "comment": "Great for immunity boost.",
+          "rating": 5
+        },
+        {
+          "name": "Diana Evans",
+          "comment": "Helps with overall health.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+  
